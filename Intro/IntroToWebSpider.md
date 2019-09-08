@@ -1,6 +1,6 @@
 ### **Why do you need Web Crawler / Web Spider?**
 
-Web Spider is a powerful and useful tool, and after you learn how to use it, you will find ~~people who don't know how to use Web Spider lives a life of a caveman.~~ It makes your life easier (especially for statisticians).**
+Web Spider is a powerful and useful tool, and after you learn how to use it, you will find ~~people who don't know how to use Web Spider lives a life of a caveman.~~ It makes your life easier *(especially for statisticians).* Also, machine learning needs a massive amount of data to support. You can easily find and organize a considerable amount of data for your machine learning tricks if you use web spider well.
 
 > ####Let's assume that you are doing a research on how many films can earn more than 15% of its budget 
 >
@@ -18,13 +18,17 @@ For people who have coding experience, Web Spider is very easy, and it has a lot
 
 ### In this tutorial, you will learn about ...             (*updating*)
 
-1. What is www, http & url
+1. AntiWebCrawler
 
-2. HTML     *(Basic HTML knowledge you need to know in Web Crawling)*
+2. What is www, http & url
 
-3. Python code of Web Crawling
+3. HTML     *(Basic HTML knowledge you need to know in Web Crawling)*
 
-4. DataBase
+4. Python code of Web Crawling
+
+5. Plugins that will help you
+
+6. DataBase
 
    
 

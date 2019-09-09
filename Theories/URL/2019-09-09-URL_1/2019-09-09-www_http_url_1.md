@@ -23,9 +23,9 @@ description: >
 
   HTTP (Hypertext Transfer Protocol) is the underlying protocol used by the World Wide Web, and this protocol defines how messages are transmitted and how browser reacts to your action. 
 
-  *That's all the things you need to know about HTTP in this Tutorial.**
+  **That's all the things you need to know about HTTP in this Tutorial.**
 
-  **For more information:*
+  *For more information:*
 
   https://www.webopedia.com/TERM/H/HTTP.html*
 
